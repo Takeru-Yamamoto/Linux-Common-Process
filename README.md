@@ -21,5 +21,5 @@ This Script takes the following actions
 Execute the following command as a user with root privileges.
 
 ```
-curl -s https://raw.githubusercontent.com/Takeru-Yamamoto/Linux-Common-Process/script.bash | bash
+curl -s https://raw.githubusercontent.com/Takeru-Yamamoto/Linux-Common-Process/master/script.bash | bash
 ```
